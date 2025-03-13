@@ -3,7 +3,7 @@
 Un jeu **Pierre-Feuille-Ciseaux** simple et interactif développé avec **HTML**, **CSS** et **JavaScript**. C'était le premier projet que j'ai developpé avec du Javascript.
 
 ---
-![rpg.png]((https://github.com/PosiTr0n505/RPG-game/blob/main/RPG.png)
+![rpg.png](https://github.com/PosiTr0n505/RPG-game/blob/main/RPG.png)
 ---
 
 ## 🎮 Fonctionnalités
