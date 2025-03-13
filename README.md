@@ -1,24 +1,41 @@
-# 🪨📄✂️ Jeu Pierre-Feuille-Ciseaux
 
-Un jeu **Pierre-Feuille-Ciseaux** simple et interactif développé avec **HTML**, **CSS** et **JavaScript**. C'était le premier projet que j'ai developpé avec du Javascript.
-
+# 🐉 Jeu RPG Texte – Dragon Repeller
 ---
 ![rpg.png](https://github.com/PosiTr0n505/RPG-game/blob/main/RPG.png)
 ---
+Bienvenue dans **Dragon Repeller**, un jeu de rôle textuel où vous incarnez un héros chargé de vaincre un puissant dragon qui bloque la sortie de la ville. Le jeu est entièrement développé en **HTML**, **CSS** et **JavaScript**.
 
-## 🎮 Fonctionnalités
+---
 
-- Choisissez entre pierre, feuille ou ciseaux
-- Jouez contre l’ordinateur (choix aléatoire)
-- Système de score pour le joueur et l’ordinateur
-- Indications visuelles pour chaque manche
-- Interface simple avec des animations
+## 🎮 Fonctionnalités du jeu
+
+- Interface interactive avec 3 boutons d'action selon la situation
+- Combat contre plusieurs monstres (slime, bête féroce, dragon)
+- Système de boutique pour acheter de la vie ou des armes
+- Inventaire avec progression d’armes
+- Système de points d’expérience, santé et or
+- Événement "œuf de Pâques" caché avec mini-jeu surprise
+- Possibilité de rejouer après une victoire ou une défaite
+
+---
+
+## 🧠 Objectif
+
+Gagner de l'expérience, améliorer vos armes, survivre aux combats et vaincre le dragon final pour libérer la ville.
 
 ---
 
 ## 🛠️ Technologies utilisées
 
-- HTML
-- CSS
-- JavaScript (événements, logique du jeu, DOM)
+- **HTML** — Structure de la page
+- **CSS** — Mise en forme et affichage des stats
+- **JavaScript** — Logique du jeu, interactions, combats, événements
+
+---
+
+## 📂 Structure du projet
+
+- `index.html` – Structure principale de la page du jeu  
+- `style.css` – Styles et interface utilisateur  
+- `script.js` – Logique du jeu et gestion des événements
 
