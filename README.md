@@ -1,10 +1,9 @@
 
 # 🐉 Jeu RPG Texte – Dragon Repeller
 ---
-![rpg.png](https://github.com/PosiTr0n505/RPG-game/blob/main/RPG.png)
----
 Bienvenue dans **Dragon Repeller**, un jeu de rôle textuel où vous incarnez un héros chargé de vaincre un puissant dragon qui bloque la sortie de la ville. Le jeu est entièrement développé en **HTML**, **CSS** et **JavaScript**.
-
+---
+![rpg.png](https://github.com/PosiTr0n505/RPG-game/blob/main/RPG.png)
 ---
 
 ## 🎮 Fonctionnalités du jeu
